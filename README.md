@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabrielmialchi
 - 👀 I’m interested in game developing and game design
 - 🌱 I’m currently learning game design, unity and c# language
-- 💞️ I’m looking to collaborate on games
+- 💞️ I’m looking to collaborate on games -> I'm a Writer and Narrative Designer
 - 📫 How to reach me gabrielmialchi@gmail.com
 
 <!---
